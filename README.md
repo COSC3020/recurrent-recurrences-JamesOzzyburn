@@ -26,3 +26,12 @@ $$ T(n) =
         13 T\left(\frac{n}{13}\right) + 2n & n > 1
     \end{cases}
 $$
+
+## Answer
+I dont know if you wanted work to be shown or not
+
+For 1) I got $\Theta(log n)$
+
+For 2) I got $\Theta(n)$
+
+For 3) I got $\Theta(n log n)$
